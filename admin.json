@@ -1,4 +1,12 @@
 {
-    "username": "kpc548",
-    "password": "210111"
+    "accounts": [
+        {
+            "username": "kpc548",
+            "password": "210111"
+        },
+        {
+            "username": "fjcyber2008",
+            "password": "2382008"
+        }
+    ]
 }
